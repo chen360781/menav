@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-01T00:24:39.326Z
+# 由bookmark-processor.js生成于 2025-12-01T13:43:52.775Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1452,26 +1452,6 @@ categories:
                     description: ""
                   - name: 万师访万家
                     url: http://wsfwj1.jx.edu.cn/HomeVisits/system/loginAction!loginIn.action
-                    icon: fas fa-link
-                    description: ""
-              - name: 挂机软件
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 收藏夹栏
-                  - 教师管理
-                  - 挂机软件
-                sites:
-                  - name: 收藏本站
-                    url: http://www.jszy8.com/#
-                    icon: fas fa-link
-                    description: ""
-                  - name: 思民Time - 思民远程培训学习助手
-                    url: http://www.silman.cn/default.html
-                    icon: fas fa-link
-                    description: ""
-                  - name: 收藏本站
-                    url: http://www.jszy8.com/#
                     icon: fas fa-link
                     description: ""
               - name: 全员培训
