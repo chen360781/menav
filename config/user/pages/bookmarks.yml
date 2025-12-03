@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-12-02T09:26:40.033Z
+# 由bookmark-processor.js生成于 2025-12-03T10:33:12.474Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1593,6 +1593,10 @@ categories:
                 description: ""
               - name: 课程学习
                 url: https://wp.pep.com.cn/web/index.php?/px/index/165
+                icon: fas fa-link
+                description: ""
+              - name: 学习中心
+                url: https://www.ttcdw.cn/p/uc/login?service=https%3A%2F%2Forg.ttcdw.cn%2Fadmin%2Fmanage%2Fcenter#home/welcome
                 icon: fas fa-link
                 description: ""
           - name: 学生信息
