@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2026-04-02T13:50:44.340Z
+# 由bookmark-processor.js生成于 2026-04-02T23:21:55.380Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1554,22 +1554,6 @@ categories:
               - name: 网上办事-中国教师资格网
                 url: https://www.jszg.edu.cn/webservice.html?t=1696838757000#
                 icon: fas fa-link
-                description: ""
-              - name: DM1
-                url: javascript:document.querySelector(&quot;video&quot;).dispatchEvent(new Event(&quot;ended&quot;))
-                icon: fab fa-js
-                description: ""
-              - name: DM2
-                url: javascript:var v=document.querySelector(&quot;video&quot;);if(v){v.muted=true;v.playbackRate=1.2; v.play();}DM2
-                icon: fab fa-js
-                description: ""
-              - name: 代码1
-                url: javascript:document.querySelector(&quot;video&quot;).dispatchEvent(new Event(&quot;ended&quot;))
-                icon: fab fa-js
-                description: ""
-              - name: 代码2
-                url: javascript:var v=document.querySelector(&quot;video&quot;);if(v){v.muted=true;v.playbackRate=1.2; v.play();}
-                icon: fab fa-js
                 description: ""
               - name: jxzj.webtrn.cn/cms/
                 url: https://jxzj.webtrn.cn/cms/
@@ -8883,98 +8867,6 @@ categories:
                     description: ""
                   - name: 懒人Excel - Excel 函数公式、操作技巧、数据分析、图表模板、VBA、数据透视表教程
                     url: https://www.lanrenexcel.com/
-                    icon: fas fa-link
-                    description: ""
-              - name: 软件推荐
-                icon: fas fa-folder
-                path:
-                  - ""
-                  - 收藏夹栏
-                  - 办公软件
-                  - 软件推荐
-                sites:
-                  - name: Windows 教程 - 大眼仔旭
-                    url: http://www.dayanzai.me/tutorial/windows-tutorial
-                    icon: fas fa-link
-                    description: ""
-                  - name: kk梦空间-专业软件下载站，纯公益项目，免费下载。
-                    url: https://www.kkmkj.net/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 开源 - 异次元软件世界
-                    url: https://www.iplaysoft.com/tag/%E5%BC%80%E6%BA%90
-                    icon: fas fa-link
-                    description: ""
-                  - name: 马小帮 | 专注互联网经验分享！
-                    url: https://www.maxiaobang.com/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 软件爱好者 | 致力于资源分享
-                    url: https://www.softwarelove.cn/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 花间社 - 免费分享各种软件及教程
-                    url: https://www.huajclub.com/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 效率神器：QuickLook – 技术松鼠
-                    url: https://www.jishusongshu.com/computer-software/quicklook-efficiency-artifact/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 卡饭网_计算机安全_杀毒软件交流中心 - 互助分享 - 大气谦和!
-                    url: https://bbs.kafan.cn/portal.php
-                    icon: fas fa-link
-                    description: ""
-                  - name: 克隆窝|助互联网玩家寻找每一条道路
-                    url: https://www.uy5.net/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 克隆窝-文件资源下载列表
-                    url: https://www.kelongwo.com/download/list/?path=00019700101000000001/0s11do9lZ1Cb13120220309162759fih/0s11do9lZ1Cb131202110231708372nw/0s11do9lZ1Cb16920220720195438kkw
-                    icon: fas fa-link
-                    description: ""
-                  - name: 软仓丨RuanCang.Net
-                    url: https://www.ruancang.net/#/sim?page=0&amp;id=0&amp;_=1663648792745
-                    icon: fas fa-link
-                    description: ""
-                  - name: 视频剪辑软件，免费视频剪切合并软件，免费视频转换器，免费视频播放器，免费MP3剪切器下载
-                    url: http://www.yyzsoft.com/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 果核剥壳 - 互联网的净土
-                    url: https://www.ghxi.com/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 下载 - voidtools
-                    url: https://www.voidtools.com/zh-cn/downloads/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 微信公众号文章批量下载.zip - 蓝奏云
-                    url: https://dnzscomcn.lanzoui.com/iLkB9jc818d
-                    icon: fas fa-link
-                    description: ""
-                  - name: Cencrack在线工具包
-                    url: http://cencrack.com/?post=18
-                    icon: fas fa-link
-                    description: ""
-                  - name: Windows 软件 | 殁漂遥
-                    url: https://www.mpyit.com/category/pcsoft/page/2
-                    icon: fas fa-link
-                    description: ""
-                  - name: 破解补丁 - 亿破姐
-                    url: https://www.ypojie.com/pc/patch
-                    icon: fas fa-link
-                    description: ""
-                  - name: 新开windows必备软件地址 – 栋dong的个人站点
-                    url: https://itdong.me/windows_links/
-                    icon: fas fa-link
-                    description: ""
-                  - name: 新开windows必备软件地址 | 克隆窝
-                    url: https://www.uy5.net/discuss/38933.html
-                    icon: fas fa-link
-                    description: ""
-                  - name: 模版素材类资源收录
-                    url: https://spcqwserdvymm.com.vika.cn/share/shryNwH3HRgvzMTaZVAGx/dstYLGl97A1h4Y0epm/viwcG7VnagidS
                     icon: fas fa-link
                     description: ""
               - name: 软件
